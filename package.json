@@ -1,0 +1,25 @@
+{
+  "name": "html2-pixellab-handson",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aiseahmed/html2-pixellab-handson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aiseahmed/html2-pixellab-handson/issues"
+  },
+  "homepage": "https://github.com/aiseahmed/html2-pixellab-handson#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "sass": "^1.50.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
